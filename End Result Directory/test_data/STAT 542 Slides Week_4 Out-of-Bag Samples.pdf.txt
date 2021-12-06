@@ -1,0 +1,1 @@
+out of bago ob sample so ob samples sample points which are not included in bie they are not used in building the tree tb the oo samples can be used to get test error for tb the prediction and error rate returned by randomforest are calculated base do noob the error is usually close to acv error

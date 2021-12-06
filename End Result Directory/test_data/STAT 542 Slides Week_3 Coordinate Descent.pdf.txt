@@ -1,0 +1,1 @@
+coordinate descent algorithm for general lasso can be solved via coordinate descent at each iteration repeatedly solve one dimensional lasso problem for while holding all other co kk at their current values min jn xi yi jx ikk xi jj jk jj jj min jn xi ri xi jj jj why does this algorithm work tseng 200137

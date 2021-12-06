@@ -1,0 +1,1 @@
+kn nvs linear regression linear regression is linear low variance need to estimate parameters high bia sun de linear assumption is very restrictive kn no assumption on except local some smoothness low bias and adaptive it can be shown that skn such that kn kn is consistent high variance num of parameters fork nn is roughly nk which goes to in order to achieve consistency 11

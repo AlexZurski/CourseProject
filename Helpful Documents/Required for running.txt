@@ -1,0 +1,18 @@
+Data
+Noncode documents
+allwords.txt
+bm25_eval.py
+bm25_master_eval.py
+config.toml
+create_bow.py
+create_corpus.py
+create_dict.py
+create_ii.py
+create_query.py
+create_textdata.py
+create_vocab.py
+psuedo.py
+query.xls
+search_engine.exe
+search_engine.py
+stopwords.txt

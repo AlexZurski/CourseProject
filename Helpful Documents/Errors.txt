@@ -1,0 +1,15 @@
+Slide failures:
+Use of two lms for splitting
+
+Queries:
+adaboost
+CPLSA
+DCMI
+OAIS
+reluctant
+DUS Triangle
+Codd
+nDCG@k
+
+Use of psuedo-relevance:
+Average of 4 different methods

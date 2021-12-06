@@ -1,0 +1,1 @@
+least squares estimation given set of training data xi xi py in we estimate the regression co 01 by minimizing the residual sum of squares rss rss 01 pn xi yi 01 xi px ip

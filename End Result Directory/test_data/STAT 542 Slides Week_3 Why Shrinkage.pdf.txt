@@ -1,0 +1,1 @@
+why is shrinkage appealing why should we shrink the ls estimate isnt unbiased ness nice property consider simple estimation problem zn ii dn what the mse of zand what the mse of 12 mse zez 22 mse 12 zez 224142 shrinkage may introduce bias but can also reduce variance which could lead to an overall smaller mse 24

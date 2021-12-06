@@ -1,0 +1,35 @@
+<Dependecies>
+create_textdata.py
+	create_bow.py
+	create_corpus.py
+	create_ii.py
+	create_query.py
+	create_vocab.py
+
+psuedo.py
+
+bm25_master_eval.py
+	bm25_eval.py
+
+search_engine.py
+	create_dict.py
+</Dependencies>
+
+<Steps to recreate>
+	python create_textdata.py
+	python psuedo.py config.toml
+	python search_engine.py
+	OR
+	search_engine.exe
+</Steps to recreate>
+
+Improvements:
+Text extraction from slides
+Applying same cleaning to queries
+Improved relevance judgements
+
+Future goals:
+Improved allwords.txt
+Exact slide
+Use in conjunction with other methods
+Web app / make pretty

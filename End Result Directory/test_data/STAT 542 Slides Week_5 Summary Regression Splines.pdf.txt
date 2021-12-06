@@ -1,0 +1,1 @@
+summary regression splines use ls to spline model specify the df ap and then regression model with design matrix of columns including the intercept how to do it in how to select the number location of knots not the polynomial degree but the df of the spline related to the number of knots 22

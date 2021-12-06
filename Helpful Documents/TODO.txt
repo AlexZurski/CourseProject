@@ -1,0 +1,13 @@
+Programming complete!
+
+o Github commit
+	X Clean up files
+
+o Documentation
+	o Word docs
+	o Code comments
+	o Acknowledgements
+
+o Video
+	o Presentation
+	o Recording

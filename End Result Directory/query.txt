@@ -1,0 +1,174 @@
+syntactic structure
+vector space model
+VSM
+data science
+data curation
+organization
+discoverability
+integration
+provenance
+security
+compliance
+independent
+variance covariance matrix
+central limit theorem
+classification
+supervised learning
+inverted index
+accumulator
+gamma code
+tokenization
+zipf's law
+BM25
+TF weighting
+relational
+tree
+ontology
+data model
+data independence
+abstraction
+indirection
+linear regression
+r-square
+predictors
+precision
+recall
+average precision
+F1 score
+precision recall curve
+cranfield evaluation
+nDCG@k
+documents
+descriptive markup
+XML language
+XML schema
+XML document
+validity
+subset
+average squared error
+regularization
+ridge regression
+AIC
+BIC
+unigram language model
+unigram query likelihood
+Jelinek Mercer
+Dirichlet Prior
+schema
+attribute
+proposition
+Codd
+conceptual model
+RDF graph
+RDF schema
+regression tree
+log transformation
+randomforest
+GBM
+GFS
+MapReduce
+web search
+PageRank
+feedback
+data integration
+federation
+heterogeneity
+inter-schema relationship
+data cleaning
+polynomial regression
+cubic spline
+smoothing spline
+recommender system
+Beta Gamma Threshold
+content based filtering
+DUS Triange
+user similarity measure
+search engine
+content
+grouping
+relatedness
+dimension reduction
+gap statistics
+hierarchical clustering
+paradigmatic relation
+IDF
+EOWC similarity
+ambiguity
+NLP
+POS tagging
+metadata
+metadata schema
+Dublin Core
+serialization language
+clustering
+k-means algorithm
+single linkage
+HMM
+gaussian mixture model
+Latent Dirichlet Allocation
+IXY
+entropy
+naturalistic studies
+data sharing
+reluctant
+data reuse
+mixture model
+PLSA
+EM algorithm
+background component
+phyiscal threat
+data preservation
+OAIS
+PREMIS
+replication
+migration
+normalization
+Dublin Core
+preservation goal
+QDA classifier
+Naive Bayes classifier
+LDA
+PCA
+FDA
+text clustering
+agglomerative clustering
+direct evaluation
+Naive Bayes
+single-link
+propositions
+canonicalization
+logistic regression
+logistic classifier
+cost function
+L1 penalty
+classification accuracy
+micro-averaging
+support vector machine
+domain knowledge
+sentiment classification
+opinon holder
+data standards
+DCMI
+data set conformance
+processor conformance
+interoperability
+transitive
+Gaussian kernel
+linear kernel
+linear SVM
+Gaussian SVM
+opinion mining
+contextual text mining
+latent aspect rating analysis
+CPLSA
+data workflow
+data set transformations
+ASAP
+provenance
+compuational provenance
+black-box
+grey-box
+white-box
+Ludaescher
+classification tree
+adaboost
