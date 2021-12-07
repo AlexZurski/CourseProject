@@ -1,0 +1,10 @@
+Python requirements
+
+Version 3.6 or higher
+
+Packages installed:
+metapy
+pytoml
+PyPDF2
+wordninjaz
+pandas

@@ -6,4 +6,4 @@ To try the search engine developed using the test data, download "End Results" a
 
 To build your own search engine, download "Reproduce Results" and follow the instructions in the documentation.
 
-Video can be found here: ***LINK***
+Video can be found here: https://mediaspace.illinois.edu/media/t/1_slom9c26
