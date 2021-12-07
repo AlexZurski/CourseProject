@@ -1,6 +1,0 @@
-data preservation 
-v two data preservation standards oais premis 
-oais the open archival information system oais is model for data archives it is documented in reference model for an open archival information system oais  recommended practice  ccsds  issue  june  https publicccsdsorg pubsxmpdf oais was developed by the consultative committee for space data systems ccsds  originally for space agency data but now the most influential high level data archiving standard it is very comprehensive but also very high level which means that it is general framework but not specific set of rules formats techniques etc take look https publicccsdsorg pubsxmpdf oais also refers to archives themselves as well as the standard  
-oais functional model section  oasis functional entities  reference model for an open archival information syste oais  recommended practice ccsds  magenta book issue  june  
-oais information package section  oais information definition information package definition content information information object preservation description information content data object data object representation information reference provenance context fixity access rights 
- 
