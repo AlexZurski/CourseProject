@@ -1,0 +1,7 @@
+<Future goals>
+Improved allwords.txt
+BM25 automation
+Exact slide
+Use in conjunction with other methods
+Web app / make pretty
+</Future goals>

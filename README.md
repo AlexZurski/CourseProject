@@ -1,3 +1,7 @@
-# CourseProject
+CS410 Course Project by Alex Zurawski
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Documentation can be found the "Helpful Documents" file.
+
+To try the search engine developed using the test data, download "End Results".
+
+To build your own search engine, download "Reproduce Results" and follow the instructions in the documentation.

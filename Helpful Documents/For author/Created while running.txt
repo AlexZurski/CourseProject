@@ -1,0 +1,7 @@
+courses - created by create_bow.py
+idx - created by create_ii.py
+test_data - created by create_bow.py
+lecture-qrels.txt - Created by psuedo.py
+qallwords.txt - created by create_vocab.py
+qallwords.txt.gz - created by create_vocab.py
+query.txt - created by create_query.py
