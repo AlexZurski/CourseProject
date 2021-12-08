@@ -8,4 +8,4 @@ To build your own search engine, download "Reproduce Results" and follow the ins
 
 Video can be found here: https://www.youtube.com/watch?v=vp4OGD-IHIQ&ab_channel=AlexZurawski
 
-Note: before recording the video, I modified the Data directory and query.xls in Reproduce Results to only include CS 410 information. If you just run the commands in the video without editing any data, the search engine created will be the same as the one in "End Results."
+Note: before recording the video, I modified the "Data" directory and query.xls in "Reproduce Results" to only include CS 410 information. If you just run the commands in the video without editing any data, the search engine created will be the same as the one in "End Results."
